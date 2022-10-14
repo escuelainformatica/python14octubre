@@ -10,4 +10,4 @@ print(flotante1+flotante2)  # 2.0300000000000002  = 2.03
 
 dec1=decimal.Decimal("1.01")  # Decimal
 dec2=decimal.Decimal("1.02")  # Decimal
-print(dec1+dec2)  # 2.030000000000000026645352591
+print(dec1+dec2)  # 2.03
